@@ -2,17 +2,23 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Thierry Henry Botelho, tenho 19 anos e nasci e cresci em jacarezinho/PR. Conclui o ensino medio no Luiz Setti, com curso de tecnico em informatica. Atualmente estou cursando Engenharia de Software na Unifatecie. Estou me aprofundando cada vez mais na área de tecnologia e buscando transformar meus conhecimentos em projetos práticos, enquanto evoluo constantemente como desenvolvedor. Neste GitHub, compartilharei semanalmente minha evolução, projetos e aprendizados ao longo da minha jornada na área de tecnologia.
+**Estudante de Engenharia de Software | Desenvolvendo soluções web e aprimorando minhas habilidades em Front-end e Back-end.**
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Software**, interessado em desenvolvimento de software, programação e criação de soluções através da tecnologia.
+Me chamo Thierry Henry Botelho, tenho 19 anos e nasci e cresci em Jacarezinho/PR. Concluí o Ensino Médio no Colégio Estadual Luiz Setti, com formação técnica em Informática. Atualmente, estou cursando Engenharia de Software na Unifatecie.
 
-Estou constantemente buscando aprender novas ferramentas, aprimorar minhas habilidades e transformar conhecimentos em projetos práticos.
+Atualmente, trabalho como **vendedor**, experiência que tem me ajudado a desenvolver habilidades como **comunicação, atendimento ao cliente, organização e resolução de problemas**. Ao mesmo tempo, estou me aprofundando cada vez mais na área de tecnologia, estudando **programação, desenvolvimento web, bancos de dados e engenharia de software**, buscando transformar meus conhecimentos em projetos práticos e evoluir constantemente como desenvolvedor.
 
-> 🚀 Meu objetivo é evoluir constantemente e transformar ideias em código.
+Neste GitHub, compartilharei semanalmente minha evolução, meus projetos e meus aprendizados ao longo da minha jornada na área de tecnologia. 🚀
+
+---
+
+## 🎯 Objetivo
+
+> 🚀 Meu objetivo é mais profundo do que uma frase de efeito como ‘transformando ideias em código’. Quero construir algo. Tenho um porquê, e é ele que me faz continuar aprendendo, evoluindo e buscando me tornar relevante.
 
 ---
 
@@ -53,17 +59,7 @@ Cada projeto representa uma etapa da minha jornada e uma oportunidade de colocar
 
 ## 🚀 Minha jornada
 
-> **"Cada linha de código é uma oportunidade de aprender, evoluir e construir algo melhor."**
-
-Estou construindo minha experiência através da prática, aprendendo com cada projeto e buscando evoluir continuamente como desenvolvedor.
-
----
-
-## 🎯 Objetivo
-
-Meu objetivo é me desenvolver profissionalmente na área de tecnologia, adquirindo experiência prática e construindo um **portfólio sólido de projetos**.
-
-Quero utilizar este espaço para documentar minha evolução, compartilhar meus projetos e demonstrar minhas habilidades em desenvolvimento de software.
+> Estou construindo minha experiência através da prática, aprendendo com cada projeto e buscando evoluir continuamente como desenvolvedor.
 
 ---
 
