@@ -1,7 +1,7 @@
 # ThierryHenry11
 # 👨‍💻 Thierry Henry
 
-**`estudante FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Thierry Henry Botelho, tenho 19 anos e nasci e cresci em jacarezinho/PR. Conclui o ensino medio no Luiz Setti, com curso de tecnico em informatica. Atualmente estou cursando Engenharia de Software na Unifatecie. Estou me aprofundando cada vez mais na área de tecnologia e buscando transformar meus conhecimentos em projetos práticos, enquanto evoluo constantemente como desenvolvedor. Neste GitHub, compartilharei semanalmente minha evolução, projetos e aprendizados ao longo da minha jornada na área de tecnologia.
 
