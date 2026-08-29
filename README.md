@@ -1,11 +1,9 @@
 # ThierryHenry11
-# 👋 Olá, eu sou Thierry Henry Botelho!
+# 👨‍💻 Thierry Henry
 
-### Estudante de Engenharia de Software | Desenvolvedor em evolução | Construindo ideias através do código. 💻🚀
+**`estudante FullStack`**
 
-🎓 Atualmente curso **Engenharia de Software** e estou construindo minha trajetória na área de tecnologia através de estudos, projetos e experiências práticas.
-
-Este GitHub é o meu espaço para **aprender, criar, experimentar e compartilhar minha evolução como desenvolvedor**.
+Me chamo Thierry Henry Botelho, tenho 19 anos e nasci e cresci em jacarezinho/PR. Conclui o ensino medio no Luiz Setti, com curso de tecnico em informatica. Atualmente estou cursando Engenharia de Software na Unifatecie. Estou me aprofundando cada vez mais na área de tecnologia e buscando transformar meus conhecimentos em projetos práticos, enquanto evoluo constantemente como desenvolvedor. Neste GitHub, compartilharei semanalmente minha evolução, projetos e aprendizados ao longo da minha jornada na área de tecnologia.
 
 ---
 
