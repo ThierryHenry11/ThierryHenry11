@@ -1,5 +1,4 @@
 # ThierryHenry11
-# 👨‍💻 Thierry Henry
 
 **`Desenvolvedor FullStack`**
 
