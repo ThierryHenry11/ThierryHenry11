@@ -1,12 +1,12 @@
 # ThierryHenry11
 
-**`Desenvolvedor FullStack`**
+**`👨‍💻 Desenvolvedor FullStack`**
 
 **Estudante de Engenharia de Software | Desenvolvendo soluções web e aprimorando minhas habilidades em Front-end e Back-end.**
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧠 Sobre mim
 
 Me chamo Thierry Henry Botelho, tenho 19 anos e nasci e cresci em Jacarezinho/PR. Concluí o Ensino Médio no Colégio Estadual Luiz Setti, com formação técnica em Informática. Atualmente, estou cursando Engenharia de Software na Unifatecie.
 
