@@ -18,7 +18,7 @@ Neste GitHub, compartilharei semanalmente minha evolução, meus projetos e meus
 
 ## 🎯 Objetivo
 
-> 🚀 Meu objetivo é mais profundo do que uma frase de efeito como ‘transformando ideias em código’. Quero construir algo. Tenho um porquê, e é ele que me faz continuar aprendendo, evoluindo e buscando me tornar relevante.
+> Meu objetivo é mais profundo do que uma frase de efeito como “transformando ideias em código”. Quero construir algo que tenha um porquê — algo que me faça continuar aprendendo, evoluindo e buscando me tornar relevante.
 
 ---
 
