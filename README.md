@@ -69,7 +69,7 @@ Cada projeto representa uma etapa da minha jornada e uma oportunidade de colocar
 
 🔗 **LinkedIn:** thierry-henry-84921237a
 
-📧 **E-mail:** thie44271@gmail.com
+📧 **E-mail:** thierryhenrybotelho00@gmail.com
 
 ---
 
